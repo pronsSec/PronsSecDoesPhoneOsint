@@ -13,4 +13,10 @@ Work from top to bottom and follow the instructions!
 
 P.S. - Here is a test number and also the format to follow when inputting your numbers: +40721234567
 
+---
+
+To open this tool go to the .ipynb file in this repo and click the 'open in Colab' button at the top. 
+
+---
+
 -been
